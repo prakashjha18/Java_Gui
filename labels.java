@@ -18,3 +18,10 @@ public void init() {
 <applet code="appc.class" width="300" height="300">
 </applet>
 */
+/*
+methods of label class
+1)getText()
+2)setText()
+3)getAlignment()
+4)setAlignment()
+*/
